@@ -32,8 +32,11 @@ vim ListExamples // to access the Java file
 bash test.sh // test the  success file
 
 ![Image](5.PNG)
+
 git add ListExamples.java
+
 git status
+
 git commit -m "Fix the Bus"
 
 ![Image](6.PNG)
