@@ -33,6 +33,8 @@ bash test.sh // test the  success file
 
 ![Image](5.PNG)
 
+// I just Typing the command
+
 git add ListExamples.java
 
 git status
